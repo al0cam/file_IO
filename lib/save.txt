@@ -1,0 +1,13 @@
+---
+:word: gummy
+:word_help: gummy
+:array_solution:
+- _
+- _
+- _
+- _
+- _
+:array_used_letters:
+- s
+:game_count: 1
+:guess_count: 7
